@@ -1,5 +1,5 @@
 ---
-base_model: unsloth/phi-3.5-mini-instruct-bnb-4bit
+base_model: unsloth/tiny-lama/phi-instruct
 library_name: peft
 ---
 
